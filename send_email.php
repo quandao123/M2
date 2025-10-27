@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST['message'];
 
     // Set recipient email address
-    $to = 'youremailhere';
+    $to = 'daominhquan08102007@gmail.com';
 
     // Set subject
     $subject = 'Custom Gift Request';
